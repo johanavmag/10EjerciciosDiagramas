@@ -1,0 +1,6 @@
+var n1 = prompt ("Dame el primer numero")
+var n2 = prompt ("Dame el segundo numero")
+var n3 = prompt ("Dame el tercer numero")
+var R1 = (parseInt(n1) + parseInt(n2)+parseInt(n3))
+var R2 = (parseInt(R1)/3)
+alert(R2)

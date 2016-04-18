@@ -1,0 +1,5 @@
+var n1 = prompt ("Dame la base del triangulo")
+var n2 = prompt ("Dame la altura del triangulo")
+var R1 = (parseInt(n1) * parseInt(n2))
+var R2 = (parseInt(R1)/2)
+alert(R2)
